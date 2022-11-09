@@ -1,0 +1,53 @@
+body {
+    color:#000000;
+}
+
+
+a:link {
+    color: #040c33(0, 0, 0);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:visited {
+    color: #0b79d3;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:hover {
+    color: #09acde;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: #0930de;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+
+.city {
+    background-color: #808080;
+    color: rgb(0, 0, 0);
+    border: 5px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
+
+.husbild {
+    border: 5px solid black;
+}
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
